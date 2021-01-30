@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhuwanbhatt/Documents/mlflow/experiment/mlruns/3/b54884de32724681901dc66eca09c218/artifacts
+end_time: 1609608065046
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: b54884de32724681901dc66eca09c218
+run_uuid: b54884de32724681901dc66eca09c218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1609608064890
+status: 3
+tags: []
+user_id: bhuwanbhatt

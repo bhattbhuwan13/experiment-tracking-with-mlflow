@@ -1,0 +1,4 @@
+artifact_location: file:///Users/bhuwanbhatt/Documents/mlflow/experiment/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: First experiment
