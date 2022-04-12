@@ -12,7 +12,7 @@ def main():
         experiment = mlflow.get_experiment_by_name("real experiment")
         experiment_id = experiment.experiment_id
 
-    print("The experiment id is {}".format(experiment_id))
+    print(f"The experiment id is {experiment_id}")
     iris = datasets.load_iris()
     parameters = {"kernel": ("linear", "rbf"), "C": [1, 10]}
     svc = svm.SVC()
